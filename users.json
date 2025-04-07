@@ -1,12 +1,14 @@
 [
-  { "name": "Alice Johnson", "username": "alicej", "password": "alice123", "privilege": "admin" },
-  { "name": "Bob Smith", "username": "bobsmith", "password": "bobpassword", "privilege": "user" },
-  { "name": "Charlie Brown", "username": "charlieb", "password": "charlie321", "privilege": "user" },
-  { "name": "Diana Prince", "username": "dianap", "password": "wonderwoman", "privilege": "admin" },
-  { "name": "Eve Black", "username": "eveblack", "password": "evepass", "privilege": "user" },
-  { "name": "Frank White", "username": "frankw", "password": "frankpass", "privilege": "moderator" },
-  { "name": "Grace Green", "username": "graceg", "password": "grace789", "privilege": "user" },
-  { "name": "Hank Miller", "username": "hankm", "password": "hank456", "privilege": "user" },
-  { "name": "Ivy Blue", "username": "ivyblue", "password": "ivy999", "privilege": "moderator" },
-  { "name": "Jack Grey", "username": "jackgrey", "password": "jack000", "privilege": "user" }
+  {
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "password": "alice123",
+    "privilege": "admin"
+  },
+  {
+    "name": "Bob Smith",
+    "username": "bobsmith",
+    "password": "bobpassword",
+    "privilege": "user"
+  }
 ]
