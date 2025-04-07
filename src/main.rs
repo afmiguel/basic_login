@@ -1,5 +1,5 @@
-use serde::Deserialize;
 use std::fs;
+use serde::Deserialize;
 
 #[derive(Deserialize, Debug, PartialEq)]
 struct User {
