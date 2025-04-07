@@ -32,11 +32,9 @@ fn login(username: &str, password: &str, users: &[User]) -> LoginResult {
 fn main() {
     // Load users from JSON file
     let users = match read_users_from_file("users.json") {
-        Ok(users) => users,
-        Err(err) => {
-            println!("Failed to load users: {}", err);
-            return;
-        }
+        //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+        // To complete
+        //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     };
 
     // Simulate login
